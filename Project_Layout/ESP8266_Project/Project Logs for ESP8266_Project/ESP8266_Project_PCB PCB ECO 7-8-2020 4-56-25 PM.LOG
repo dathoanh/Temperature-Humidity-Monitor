@@ -1,0 +1,111 @@
+Added Component: Designator=Button1(SW/4/DIP/SMALL)
+Added Component: Designator=Button2(SW/4/DIP/SMALL)
+Added Component: Designator=DHT11(Header 4)
+Added Component: Designator=Header 2(Header 2)
+Added Component: Designator=LCD-I2C(Header 4)
+Added Component: Designator=LM2596(BUCK_LM2596)
+Added Component: Designator=NodeMCU-ESP8266(NodeMCU V1.0 ESP-12E)
+Added Component: Designator=R1(R 1/4W)
+Added Component: Designator=R2(R 1/4W)
+Added Component: Designator=R3(R 1/4W)
+Added Component: Designator=R4(R 1/4W)
+Added Component: Designator=RFID - RC522(Header 8)
+Added Component: Designator=SIM800L Module(SIM800L PINOUT)
+Added Pin To Net: NetName=NetButton1_1 Pin=Button1-1
+Added Pin To Net: NetName=NetButton1_1 Pin=Button2-1
+Added Pin To Net: NetName=NetButton1_1 Pin=NodeMCU-ESP8266-3V3
+Added Pin To Net: NetName=NetButton1_1 Pin=NodeMCU-ESP8266-3V3
+Added Pin To Net: NetName=NetButton1_1 Pin=NodeMCU-ESP8266-3V3
+Added Net: Name=NetButton1_1
+Added Pin To Net: NetName=NetButton1_2 Pin=Button1-2
+Added Pin To Net: NetName=NetButton1_2 Pin=R3-2
+Added Net: Name=NetButton1_2
+Added Pin To Net: NetName=NetButton2_2 Pin=Button2-2
+Added Pin To Net: NetName=NetButton2_2 Pin=R2-2
+Added Net: Name=NetButton2_2
+Added Pin To Net: NetName=NetDHT11_1 Pin=DHT11-1
+Added Pin To Net: NetName=NetDHT11_1 Pin=NodeMCU-ESP8266-3V3
+Added Pin To Net: NetName=NetDHT11_1 Pin=NodeMCU-ESP8266-3V3
+Added Pin To Net: NetName=NetDHT11_1 Pin=NodeMCU-ESP8266-3V3
+Added Pin To Net: NetName=NetDHT11_1 Pin=R1-2
+Added Net: Name=NetDHT11_1
+Added Pin To Net: NetName=NetDHT11_2 Pin=DHT11-2
+Added Pin To Net: NetName=NetDHT11_2 Pin=NodeMCU-ESP8266-SD3
+Added Pin To Net: NetName=NetDHT11_2 Pin=R1-1
+Added Net: Name=NetDHT11_2
+Added Pin To Net: NetName=NetDHT11_4 Pin=DHT11-4
+Added Pin To Net: NetName=NetDHT11_4 Pin=NodeMCU-ESP8266-GND
+Added Pin To Net: NetName=NetDHT11_4 Pin=NodeMCU-ESP8266-GND
+Added Pin To Net: NetName=NetDHT11_4 Pin=NodeMCU-ESP8266-GND
+Added Pin To Net: NetName=NetDHT11_4 Pin=NodeMCU-ESP8266-GND
+Added Net: Name=NetDHT11_4
+Added Pin To Net: NetName=NetHeader 2_1 Pin=Header 2-1
+Added Pin To Net: NetName=NetHeader 2_1 Pin=LM2596-1
+Added Net: Name=NetHeader 2_1
+Added Pin To Net: NetName=NetHeader 2_2 Pin=Header 2-2
+Added Pin To Net: NetName=NetHeader 2_2 Pin=LM2596-2
+Added Net: Name=NetHeader 2_2
+Added Pin To Net: NetName=NetLCD-I2C_1 Pin=LCD-I2C-1
+Added Pin To Net: NetName=NetLCD-I2C_1 Pin=NodeMCU-ESP8266-GND
+Added Pin To Net: NetName=NetLCD-I2C_1 Pin=NodeMCU-ESP8266-GND
+Added Pin To Net: NetName=NetLCD-I2C_1 Pin=NodeMCU-ESP8266-GND
+Added Pin To Net: NetName=NetLCD-I2C_1 Pin=NodeMCU-ESP8266-GND
+Added Net: Name=NetLCD-I2C_1
+Added Pin To Net: NetName=NetLCD-I2C_2 Pin=LCD-I2C-2
+Added Pin To Net: NetName=NetLCD-I2C_2 Pin=NodeMCU-ESP8266-VIN
+Added Net: Name=NetLCD-I2C_2
+Added Pin To Net: NetName=NetLCD-I2C_3 Pin=LCD-I2C-3
+Added Pin To Net: NetName=NetLCD-I2C_3 Pin=NodeMCU-ESP8266-D2
+Added Net: Name=NetLCD-I2C_3
+Added Pin To Net: NetName=NetLCD-I2C_4 Pin=LCD-I2C-4
+Added Pin To Net: NetName=NetLCD-I2C_4 Pin=NodeMCU-ESP8266-D1
+Added Net: Name=NetLCD-I2C_4
+Added Pin To Net: NetName=NetLM2596_3 Pin=LM2596-3
+Added Pin To Net: NetName=NetLM2596_3 Pin=NodeMCU-ESP8266-GND
+Added Pin To Net: NetName=NetLM2596_3 Pin=NodeMCU-ESP8266-GND
+Added Pin To Net: NetName=NetLM2596_3 Pin=NodeMCU-ESP8266-GND
+Added Pin To Net: NetName=NetLM2596_3 Pin=NodeMCU-ESP8266-GND
+Added Pin To Net: NetName=NetLM2596_3 Pin=R4-2
+Added Pin To Net: NetName=NetLM2596_3 Pin=SIM800L Module-6
+Added Net: Name=NetLM2596_3
+Added Pin To Net: NetName=NetLM2596_4 Pin=LM2596-4
+Added Pin To Net: NetName=NetLM2596_4 Pin=SIM800L Module-2
+Added Net: Name=NetLM2596_4
+Added Pin To Net: NetName=NetNodeMCU-ESP8266_3V3 Pin=NodeMCU-ESP8266-3V3
+Added Pin To Net: NetName=NetNodeMCU-ESP8266_3V3 Pin=NodeMCU-ESP8266-3V3
+Added Pin To Net: NetName=NetNodeMCU-ESP8266_3V3 Pin=NodeMCU-ESP8266-3V3
+Added Pin To Net: NetName=NetNodeMCU-ESP8266_3V3 Pin=RFID - RC522-1
+Added Net: Name=NetNodeMCU-ESP8266_3V3
+Added Pin To Net: NetName=NetNodeMCU-ESP8266_A0 Pin=NodeMCU-ESP8266-A0
+Added Pin To Net: NetName=NetNodeMCU-ESP8266_A0 Pin=R2-1
+Added Pin To Net: NetName=NetNodeMCU-ESP8266_A0 Pin=R3-1
+Added Pin To Net: NetName=NetNodeMCU-ESP8266_A0 Pin=R4-1
+Added Net: Name=NetNodeMCU-ESP8266_A0
+Added Pin To Net: NetName=NetNodeMCU-ESP8266_D0 Pin=NodeMCU-ESP8266-D0
+Added Pin To Net: NetName=NetNodeMCU-ESP8266_D0 Pin=RFID - RC522-8
+Added Net: Name=NetNodeMCU-ESP8266_D0
+Added Pin To Net: NetName=NetNodeMCU-ESP8266_D3 Pin=NodeMCU-ESP8266-D3
+Added Pin To Net: NetName=NetNodeMCU-ESP8266_D3 Pin=RFID - RC522-2
+Added Net: Name=NetNodeMCU-ESP8266_D3
+Added Pin To Net: NetName=NetNodeMCU-ESP8266_D4 Pin=NodeMCU-ESP8266-D4
+Added Pin To Net: NetName=NetNodeMCU-ESP8266_D4 Pin=SIM800L Module-5
+Added Net: Name=NetNodeMCU-ESP8266_D4
+Added Pin To Net: NetName=NetNodeMCU-ESP8266_D5 Pin=NodeMCU-ESP8266-D5
+Added Pin To Net: NetName=NetNodeMCU-ESP8266_D5 Pin=RFID - RC522-7
+Added Net: Name=NetNodeMCU-ESP8266_D5
+Added Pin To Net: NetName=NetNodeMCU-ESP8266_D6 Pin=NodeMCU-ESP8266-D6
+Added Pin To Net: NetName=NetNodeMCU-ESP8266_D6 Pin=RFID - RC522-5
+Added Net: Name=NetNodeMCU-ESP8266_D6
+Added Pin To Net: NetName=NetNodeMCU-ESP8266_D7 Pin=NodeMCU-ESP8266-D7
+Added Pin To Net: NetName=NetNodeMCU-ESP8266_D7 Pin=RFID - RC522-6
+Added Net: Name=NetNodeMCU-ESP8266_D7
+Added Pin To Net: NetName=NetNodeMCU-ESP8266_D8 Pin=NodeMCU-ESP8266-D8
+Added Pin To Net: NetName=NetNodeMCU-ESP8266_D8 Pin=SIM800L Module-4
+Added Net: Name=NetNodeMCU-ESP8266_D8
+Added Pin To Net: NetName=NetNodeMCU-ESP8266_GND Pin=NodeMCU-ESP8266-GND
+Added Pin To Net: NetName=NetNodeMCU-ESP8266_GND Pin=NodeMCU-ESP8266-GND
+Added Pin To Net: NetName=NetNodeMCU-ESP8266_GND Pin=NodeMCU-ESP8266-GND
+Added Pin To Net: NetName=NetNodeMCU-ESP8266_GND Pin=NodeMCU-ESP8266-GND
+Added Pin To Net: NetName=NetNodeMCU-ESP8266_GND Pin=RFID - RC522-3
+Added Net: Name=NetNodeMCU-ESP8266_GND
+Added Class: Name=ESP8266_Project_Schematic
